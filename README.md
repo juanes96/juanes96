@@ -12,7 +12,7 @@ const juanes = {
 ```
 
 you can find me 🌍:
-- [linkedin](www.linkedin.com/in/juan-esteban-anaya-martínez)
+- [linkedin](www.linkedin.com/in/juan-esteban-anaya-martínez/)
 
 
 <!--
