@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm juan 👋  
+
+```javascript
+const juanes = {
+  pronouns: "he" | "hem",
+  code: [Javascript, HTML, CSS, Python],
+  tools: [React, Node, Storybook, Styled-Components, Jest, Docker],
+}
+```
 
 <!--
 **juanes96/juanes96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
